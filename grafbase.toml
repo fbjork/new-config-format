@@ -1,0 +1,9 @@
+[graph]
+type = "standalone"
+path = "./api"
+
+[introspection]
+enabled = false
+
+[experimental.codegen]
+enabled = true
